@@ -1,0 +1,9 @@
+.stack-work/
+dist-newstyle/
+TAGS
+binaries
+config
+output
+dist
+diamond/test_config.yml
+result
